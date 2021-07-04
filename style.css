@@ -8,6 +8,9 @@ h1{
 h2{
 	font-size: 40px;
 }
+.margin{
+	margin-left: 10px;
+}
 .color{
 	color: orange;
 }
