@@ -8,7 +8,7 @@ h1{
 .color{
 	color: orange;
 }
-section{
+.flexable{
 	display: flex;
 }
 .singer{
@@ -30,7 +30,7 @@ section{
 	
 }
 .top-banar{
-	background-image: url(image/top-banner.png);
+	background-image: url(images/top-banner.png);
 	background-repeat: no-repeat;
 }
 .dream{
@@ -41,8 +41,12 @@ section{
 	background-repeat: no-repeat;
 	background-position: right;
 }
-
-
+.baby{
+	display: flex;
+}
+.fote{
+	text-align: center;
+}
 
 
 
