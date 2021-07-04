@@ -1,3 +1,7 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
 body{
 	font-family: 'Poppins', sans-serif;
 }
@@ -19,3 +23,34 @@ section{
 	width: 80%;
 	padding-top: 5%;
 }
+.link-button{
+	text-decoration: none;
+	color: white;
+	background-image: linear-gradient(orange,rgb(255, 99, 71));
+	padding: 10px 40px;
+	font-weight: 700;
+	border-radius: 5px;
+	
+}
+.top-banar{
+	background-image: url(image/top-banner.png);
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
